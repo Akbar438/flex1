@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(117, 81, 19);
+}
+
+
+.ss{
+    list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 42px
+}
+
+.zz{
+    text-align: center;
+}
+
+.dd{
+    width: 500px;
+ height: 500px; 
+ background-color: rgb(133, 35, 73);
+color: rgb(29, 165, 51);
+ display: flex;
+ justify-content: center;
+ align-items: center
+
+}
+
+.father{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.aa{
+    text-align: center;
+}
+
+.nn{
+    background-color: rgb(121, 31, 43);
+    color: rgb(9, 54, 151);
+}
+
+
+.ww{
+   
+    text-align: center;
+    
+
+
+}
